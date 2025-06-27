@@ -190,14 +190,3 @@ The application includes comprehensive error handling for:
 - **cx_Oracle**: Oracle database connectivity
 - **openpyxl**: Excel file handling
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
-## Support
-
-[Add contact information or support details if applicable] 
