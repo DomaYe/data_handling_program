@@ -8,10 +8,10 @@ cx_Oracle.init_oracle_client(lib_dir=os.path.expanduser("/Users/bartadomonkos/in
 # Oracle SQL kapcsolódás
 def get_oracle_connection():
     hostname = "codd.inf.unideb.hu"
-    port = 1521
+    port = 
     service_name = "ora21cp.inf.unideb.hu"
-    user = "U_Y44YDZ"
-    password = "kassai"
+    user = ""
+    password = ""
 
     dsn = f"{hostname}:{port}/{service_name}"
 
